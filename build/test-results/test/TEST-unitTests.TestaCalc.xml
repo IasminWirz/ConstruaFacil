@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="unitTests.TestaCalc" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-16T22:24:59" hostname="DESKTOP-US5RK88" time="0.013">
+  <properties/>
+  <testcase name="dividirDoisNumeros" classname="unitTests.TestaCalc" time="0.013"/>
+  <system-out><![CDATA[O resultado esperado Ã© 5
+O resultado atual foi 5
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
